@@ -1,0 +1,47 @@
+Estructurada
+1. Variables
+    - Escribir en consola
+    - int, long
+    - double, float
+    - char, String
+    - boolean
+    - instancia
+    - Parse, casting
+2. Condicionales
+    - If, else y else If
+        - Mayor que
+        - Menor que
+        - Igual que
+    - Switch-case
+        - Break
+4. Ciclos
+    - For
+    - While
+    - Break
+    - Continue
+    - Infinito
+6. Utiles
+    - Banderas
+    - Contadores
+    - Acumuladores
+7. Funciones
+    - Estructura
+    - Retornos
+    - Static
+8. Excepciones (Try-Catch)
+9. Lectura de consola
+10. Arrays y Listas
+11. Archivos
+    - Lectura
+    - Escritura
+---
+Orientado a objetos
+
+1. Clases-objetos
+2. Encapsulacion
+    - Public
+    - Private
+3. Herencia
+    - Protected
+4. Polimorfismo
+    - Override

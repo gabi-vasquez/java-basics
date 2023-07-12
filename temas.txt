@@ -34,6 +34,7 @@ Estructurada
 11. Archivos
     - Lectura
     - Escritura
+12. Problemas de algoritmia.
 ---
 Orientado a objetos
 

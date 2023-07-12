@@ -30,6 +30,7 @@ public class Tarea {
             bufferedWriter.close();
         } catch (IOException e) {
             System.out.println("Error");
+            System.out.println("Test");
         }
         // Al finalizar se debe imprimir todos los nombres ingresados
         //System.out.println("Los nombres ingresados son:");
